@@ -1,6 +1,6 @@
 {
   "name": "picoapp",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "description": "",
   "source": "index.js",
   "module": "dist/picoapp.es.js",
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "evx": "^1.1.0",
-    "picostate": "^4.0.0"
+    "picostate": "^1.4.0"
   }
 }
